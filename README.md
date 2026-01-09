@@ -16,6 +16,27 @@ I'm passionate about bridging traditional enterprise IT with modern AI capabilit
 - 📊 Implementing **multi-agent frameworks** and semantic search systems
 - 🤖 Exploring autonomous trading strategies with **Nautilus Trader** and algorithmic systems
 
+## 💼 Professional Experience
+
+### Senior Technical Consultant @ Data Migration International AG
+**2023 - Present** | Switzerland
+
+Leading Azure cloud infrastructure projects, Terraform/IaC implementations, and enterprise SAP migrations across 40+ environments.
+
+### EDI/EAI Specialist @ PRANKE GmbH
+**8 years** | Germany
+
+Key contributions to **eBiss 3** - Germany's #1 B2B integration platform:
+- 📝 **Documentation Lead** - Authored comprehensive [DokuWiki documentation](https://www.pranke.com/hilfe/doku.php?id=en:start) covering system management, workflows, and integration patterns
+- 🔧 **Quality Assurance** - Established testing frameworks and quality standards for enterprise EDI/EAI workflows
+- 🌐 **Web Development** - Redesigned company website using WordPress, improving user experience and product presentation
+- ⚙️ **Process Automation** - Developed automation workflows for data transformation, partner management, and system monitoring
+- 🤝 **Customer Success** - Delivered enterprise integration solutions for fashion, retail, and manufacturing sectors
+
+**Technologies:** eBiss EDI/EAI, XML/EDI transformations, AS2/EDIINT protocols, DokuWiki, WordPress, process automation
+
+---
+
 ## 🛠️ Core Competencies
 
 **Cloud & Infrastructure:**
@@ -38,10 +59,10 @@ I'm passionate about bridging traditional enterprise IT with modern AI capabilit
 - Offline-first architectures
 
 **Enterprise Integration:**
-- SAP migrations & JiVS
+- EDI/EAI systems (eBiss 3, SAP JiVS)
 - Database migrations (SQL Server, MariaDB, PostgreSQL)
-- ETL processes & data integration
-- RFC/HSDT protocols
+- ETL processes & data transformation
+- AS2/EDIINT, RFC/HSDT protocols
 
 ## 📂 Featured Projects
 
