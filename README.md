@@ -23,17 +23,55 @@ I'm passionate about bridging traditional enterprise IT with modern AI capabilit
 
 Leading Azure cloud infrastructure projects, Terraform/IaC implementations, and enterprise SAP migrations across 40+ environments.
 
-### EDI/EAI Specialist @ PRANKE GmbH
-**8 years** | Germany
+### Senior Project Manager @ PRANKE GmbH
+**2014 - 2022** | Germany
 
-Key contributions to **eBiss 3** - Germany's #1 B2B integration platform:
+Led comprehensive EDI/EAI integration projects for **eBiss 3** - Germany's #1 B2B integration platform:
 - 📝 **Documentation Lead** - Authored comprehensive [DokuWiki documentation](https://www.pranke.com/hilfe/doku.php?id=en:start) covering system management, workflows, and integration patterns
 - 🔧 **Quality Assurance** - Established testing frameworks and quality standards for enterprise EDI/EAI workflows
-- 🌐 **Web Development** - Redesigned company website using WordPress, improving user experience and product presentation
-- ⚙️ **Process Automation** - Developed automation workflows for data transformation, partner management, and system monitoring
-- 🤝 **Customer Success** - Delivered enterprise integration solutions for fashion, retail, and manufacturing sectors
+- 🌐 **Web Development** - Built WordPress/WooCommerce platform with CRM and DokuWiki integration
+- ⚙️ **Product Development** - Developed tax-compliant eInvoice PDF-A3, EDIFACT validator, and SAAS data stream services
+- 🤝 **Customer Success** - Managed 100+ key accounts across Germany and Europe, delivered ediCERT® trainings
+- 🎯 **Technical Innovation** - Created graph-based eBiss analysis environment, automated keyword tagging, complex XPath mappings for GTS
 
-**Technologies:** eBiss EDI/EAI, XML/EDI transformations, AS2/EDIINT protocols, DokuWiki, WordPress, process automation
+**Technologies:** eBiss EDI/EAI, XML/EDI transformations, AS2/EDIINT protocols, C#, DokuWiki, WordPress, Neo4j
+
+### Senior Application Engineer @ Synthes GmbH (now DePuy Synthes/J&J)
+**2005 - 2009** | Switzerland
+
+SAP Business Warehouse specialist driving enterprise reporting and integration:
+- 📊 **BI Development** - Designed dynamic Excel reporting with SAP BEx Analyzer and VBA, created financial sales reports
+- 🔐 **Security & Authorization** - Managed SAP authority system, developed BW authorization rules
+- 🔄 **System Integration** - Implemented B2B integration with SAP Business Connector and eBiss, migrated CRM system
+- 💱 **Data Automation** - Built FX rates integration with external FOREX providers, automated email reporting via BI-Broadcasting
+- 🎓 **Global Training** - Delivered user training across 9 European countries, created video tutorials
+
+**Technologies:** SAP BW, BEx Analyzer, ABAP, SAP R/3 SD/MM, SAP Business Connector, eBiss, VBA
+
+### Project Manager Sales Support @ Stratec Medical AG
+**2001 - 2005** | Switzerland
+
+CRM and EDI integration project lead:
+- 🏥 **Healthcare Solutions** - Managed mobile hospital ordering system implementation
+- 🔄 **EDI Integration** - Delivered B2B/B2C integration projects connecting CRM with SAP SD/MM
+- 🌐 **Web Development** - Integrated CRM and ordering systems into intranet using PHP/MySQL
+- 📧 **Communication Systems** - Implemented Email2Fax gateway for ordering automation
+- 🌍 **Global Rollout** - Led software promotion and user training in Switzerland and international subsidiaries
+
+**Technologies:** CRM systems, SAP SD/MM, PHP, MySQL, EDI protocols
+
+### Earlier Career Highlights
+
+**Software Development & ERP Systems** (1992-2001)
+- Software Developer @ Simultan AG - ERP extensions for application integration, product costing, retail systems
+- Manager @ Tonwerk Lausen AG - IT infrastructure, quality management (DIN ISO9000), procurement systems
+
+**Education & Certifications**
+- 🎓 Master of Engineering in Ceramic Technology - University of Koblenz (1992)
+- 📜 E-Business Manager - University of Basel (2004)
+- 📚 SAP Business Warehouse (BW305, BW310, TBW42, TBW45), ABAP (Bc400_62)
+- 📊 Data Science - Johns Hopkins Bloomberg School of Public Health (2014)
+- 🗣️ Languages: German (Native), English (Fluent), French (Intermediate), Korean (Basic)
 
 ---
 
