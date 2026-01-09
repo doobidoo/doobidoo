@@ -82,14 +82,28 @@ Local voice interaction system using Groq Whisper V3 for STT and Microsoft Edge 
 ![](https://nirzak-streak-stats.vercel.app/?user=doobidoo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doobidoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
+### Notable Milestones
+- ⭐ **1,000+ Stars** on [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Persistent memory for AI assistants
+- 🚀 **Multiple Featured Projects** in AI/ML and Cloud Infrastructure domains
+- 🔧 **Active Contributor** to MCP (Model Context Protocol) ecosystem
+- 📦 **Published PyPI Package** with automated CI/CD workflows
+
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=doobidoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=doobidoo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+**Key Contributions:**
+- **[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)** - 1K+ stars, semantic memory system
+- **[shodh-cloudflare](https://github.com/doobidoo/shodh-cloudflare)** - Serverless vector database on Cloudflare
+- **[mcp-context-provider](https://github.com/doobidoo/mcp-context-provider)** - AI context management
+- **[SecondBrain](https://github.com/doobidoo/secondbrain)** - iOS/watchOS knowledge management app
 
 ---
 
