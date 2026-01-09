@@ -152,9 +152,6 @@ Local voice interaction system using Groq Whisper V3 for STT and Microsoft Edge 
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=doobidoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=doobidoo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
