@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-With over **25 years of experience** in IT, I specialize in Azure cloud infrastructure, Terraform/IaC, and enterprise SAP migrations at **Data Migration International AG** (DMI), Switzerland. I combine deep enterprise infrastructure expertise with cutting-edge AI development, building intelligent memory systems, iOS/watchOS applications, and autonomous agent frameworks.
+With over **30 years of experience** in IT, I specialize in Azure cloud infrastructure, Terraform/IaC, and enterprise SAP migrations at **Data Migration International AG** (DMI), Switzerland. I combine deep enterprise infrastructure expertise with cutting-edge AI development, building intelligent memory systems, iOS/watchOS applications, and autonomous agent frameworks.
 
 I'm passionate about bridging traditional enterprise IT with modern AI capabilities, creating tools that enhance productivity and human-AI collaboration.
 
