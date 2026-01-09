@@ -51,9 +51,9 @@ iOS/watchOS app for capturing and managing personal knowledge with voice transcr
 **Tech:** Swift, SwiftUI, SwiftData, iCloud, Cloudflare D1, Vectorize
 
 ### 🔌 [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
-ChromaDB-based semantic memory system for Claude Desktop with document ingestion, quality scoring, and automated consolidation.
+Persistent memory system for AI assistants that automatically captures project context and architecture decisions. Eliminates context loss across sessions with semantic search and works with 13+ MCP-compatible clients including Claude Desktop, VS Code, Cursor, and more.
 
-**Tech:** Python, FastAPI, ChromaDB, Ollama, Vector Embeddings
+**Tech:** Python, FastAPI, SQLite-vec, SHODH API Spec, MCP Protocol, Vector Embeddings
 
 ### ☁️ [SHODH-Cloudflare Memory](https://github.com/doobidoo/shodh-cloudflare)
 Serverless vector database backend on Cloudflare infrastructure with episodic memory chains and emotional metadata tracking.
