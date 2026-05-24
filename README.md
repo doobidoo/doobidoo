@@ -14,7 +14,7 @@ Currently managing **40+ Azure environments** for Mercedes-Benz Bank, Helvetia, 
 
 ## 💡 Architecture & Tradeoffs
 
-### [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) — 1.4k ⭐  
+### [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) — 1.8k ⭐  
 **Problem:** AI assistants lose context between sessions, killing productivity  
 **Architecture:** Dual-layer memory (local + distributed) with semantic search  
 **Tradeoffs:** 20% operational complexity for 90% context preservation  
